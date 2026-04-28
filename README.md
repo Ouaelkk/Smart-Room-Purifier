@@ -1,2 +1,2 @@
 # Smart-Room-Purifier
-Smart Purifier v3🧊🧴  A high-key cracked 3D sim using NumPy PDE solvers and Laplace-domain PID control. It tracks air qualityiin via triple integration and clears the room with Tustin-discretized logic. 📉✨ Math: Retime diffusion &amp; mass calc. Vibes: VPython shockwaves &amp; particle trails.  Pure air. Zero toxins. Nal-o cap.☁️🔥
+A 3D smart-room toxin purifier sim built with VPython & NumPy. We’re literally solving PDEs and hitting it with a Laplace PID controller (Tustin discretised) to keep the air crisp. Triple integrals track the toxin load while the fan goes brrr. Perfect for analyzing continuous control systems without the math jumpscares! 💨✨
